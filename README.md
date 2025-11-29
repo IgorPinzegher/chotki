@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# Chotki — App de apoio à oração
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um aplicativo simples para auxiliar a oração do chotki — uma prática devocional presente na tradição cristã ortodoxa. O objetivo do app é ajudar a contar orações, manter o foco, e oferecer uma experiência silenciosa e discreta para praticantes.
 
-## Get started
+## O que é chotki? 💡
 
-1. Install dependencies
+O *chotki* (também chamado de *komboskini* em grego) é um cordão de contas ou nós usado para auxiliar a repetição de orações curtas — tipicamente a Oração de Jesus: "Senhor Jesus Cristo, Filho de Deus, tem misericórdia de mim, pecador". Tradicionalmente usado por monges e leigos, o chotki serve como ferramenta para manter o ritmo e a concentração durante a oração, sendo uma prática comum na espiritualidade ortodoxa oriental.
 
-   ```bash
-   npm install
-   ```
+Principais características do chotki (tradicional):
+- Cordão com nós ou contas para contar repetições
+- Usado para a Oração de Jesus e outras breves orações
+- Ajuda a manter concentração e disciplina espiritual
 
-2. Start the app
+## Como este app ajuda ✅
 
-   ```bash
-   npx expo start
-   ```
+Este aplicativo fornece uma forma digital e simples de reproduzir a função do chotki físico:
+- Contador de orações para acompanhar repetições
+- Interface limpa e discreta para momentos de oração
+- Opções de configuração (tamanho do ciclo, vibração, som) — dependendo da implementação
+- Histórico básico e progresso (se disponível)
 
-In the output, you'll find options to open the app in a
+## Começar
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+1. Instale as dependências:
 
 ```bash
-npm run reset-project
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Inicie o app (usando o Expo):
 
-## Learn more
+```bash
+npx expo start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Abra em um emulador ou dispositivo para testar. Este projeto usa [Expo Router](https://docs.expo.dev/router/introduction) e organiza o código no diretório `app/`.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Contribuindo ✨
 
-## Join the community
+Contribuições são bem-vindas — se quiser melhorar a interface, adicionar recursos ou corrigir bugs, abra uma issue ou um pull request.
 
-Join our community of developers creating universal apps.
+## Licença
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Este projeto está disponível sob a licença definida no repositório.
+
+---
+
