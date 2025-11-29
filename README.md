@@ -19,22 +19,6 @@ Este aplicativo fornece uma forma digital e simples de reproduzir a função do 
 - Opções de configuração (tamanho do ciclo, vibração, som) — dependendo da implementação
 - Histórico básico e progresso (se disponível)
 
-## Começar
-
-1. Instale as dependências:
-
-```bash
-npm install
-```
-
-2. Inicie o app (usando o Expo):
-
-```bash
-npx expo start
-```
-
-Abra em um emulador ou dispositivo para testar. Este projeto usa [Expo Router](https://docs.expo.dev/router/introduction) e organiza o código no diretório `app/`.
-
 ## Contribuindo ✨
 
 Contribuições são bem-vindas — se quiser melhorar a interface, adicionar recursos ou corrigir bugs, abra uma issue ou um pull request.
